@@ -90,7 +90,7 @@ nav li {
 }
 
 nav a {
-  font-weight: 800;
+  font-weight: 400;
   padding: 15px 10px;
 }
 
@@ -226,7 +226,13 @@ nav a, nav a:visited {
 }
 
 /* selected nav link */
-nav a.selected, nav a:hover {
+nav a.selected {
+  color: #fff;
+  font-weight: 800;
+  
+}
+
+nav a:hover {
   color: #4D5061;
 }
 
