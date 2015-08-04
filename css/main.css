@@ -90,7 +90,7 @@ nav li {
 }
 
 nav a {
-  font-weight: 400;
+  font-weight: 800;
   padding: 15px 10px;
 }
 
@@ -197,7 +197,7 @@ header {
 
 /* nav background on mobile */
 nav {
-  background: #999;
+  background: #4D5061;
 }
 
 /* logo text */
@@ -222,19 +222,16 @@ l {
 
 /* nav link */
 nav a, nav a:visited {
-  color: #fff;
+  color: #999;
 }
 
 /* selected nav link */
-nav a.selected {
+nav a.selected, nav a:hover {
   color: #fff;
   font-weight: 800;
   
 }
 
-nav a:hover {
-  color: #4D5061;
-}
 
 
 
