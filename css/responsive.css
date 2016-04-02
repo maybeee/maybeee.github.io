@@ -76,6 +76,7 @@
     float: right;
   }
 
+
  
 }
 
@@ -83,5 +84,11 @@
     .profile-photo {
     float: left;
     margin: 20px 5% 30px 0;
+  }
+
+@media screen and (min-width: 985px) {
+   #last {
+  margin-left: 160px;
+  float:left;
   }
 }
