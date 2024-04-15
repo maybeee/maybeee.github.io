@@ -168,8 +168,8 @@ PAGE: CONTACT
   background-image: url('../img/twitter.png');
 }
 
-.contact-info li.skype a {
-  background-image: url('../img/skype.png');
+.contact-info li.telegram a {
+  background-image: url('../img/telegram.png');
 }
 
 .contact-info li.facebook a {
