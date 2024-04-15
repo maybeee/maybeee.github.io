@@ -168,7 +168,7 @@ PAGE: CONTACT
   background-image: url('../img/twitter.png');
 }
 
-.contact-info li.telegram a {
+.contact-info li.telegram a { 
   background-image: url('../img/telegram.png');
 }
 
